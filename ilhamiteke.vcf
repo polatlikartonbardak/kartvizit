@@ -1,11 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
 N:TEKE;İlhami
-FN:İlhami TEKE
-ORG:Akparti İlçe Başkanı
-TITLE:Polatlı
+FN:İlhami Teke
+ORG:Polatlı Akparti İlçe Başkanı
+TITLE:Başkan
 TEL;TYPE=CELL:+905336470279
 BDAY:19690614
 URL:https://www.akpartipolatli.com
-ADR:;;Polatlı - Basri mahallesi/ Türkiye
+ADR:;;Basri Mahallesi Küme evleri
+X-SOCIALPROFILE;type=instagram:https://instagram.com/ilhamiteke06
+X-SOCIALPROFILE;type=facebook:https://facebook.com/ilhami.teke.56
+X-SOCIALPROFILE;type=twitter:https://x.com/ıteketeke
+X-SOCIALPROFILE;type=tiktok:https://tiktok.com/@ahmetbeyabi
 END:VCARD
